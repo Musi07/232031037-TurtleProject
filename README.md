@@ -42,14 +42,7 @@ The project uses Python functions, modules, user input, and Turtle Graphics to c
 - Boat
 - Ice Cream
 
-## Project Structure
 
-232031037-TurtleProject/
-├── project.py
-├── cartooncharacters.py
-├── animals.py
-├── objects.py
-└── README.md
 
 ## Requirements
 
